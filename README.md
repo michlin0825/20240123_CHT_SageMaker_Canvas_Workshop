@@ -4,3 +4,6 @@
 
 ### Workshop Lab: https://t.ly/B1viT
 
+### Workshop Slide: https://t.ly/Af9Ho
+
+
