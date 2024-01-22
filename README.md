@@ -1,6 +1,6 @@
 # 20240123_CHT_SageMaker_Canvas_Workshop
 
-### Workshop Login: to be updated.
+### Workshop Login: https://t.ly/V64Yg
 
 ### Workshop Lab: https://t.ly/B1viT
 
